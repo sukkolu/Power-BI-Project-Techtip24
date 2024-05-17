@@ -1,0 +1,1 @@
+# Display the first few rows to understand the structure of the data
